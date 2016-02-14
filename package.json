@@ -1,0 +1,14 @@
+{
+  "name": "maketk",
+  "version": "0.0.1",
+  "description": "toolkit for make",
+  "keywords": [],
+  "author": "Mikail Bagishov <bagishov.mikail@yandex.net>",
+  "repository": { "type": "git", "url": "git://github.com/MikailBag/maketk.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
