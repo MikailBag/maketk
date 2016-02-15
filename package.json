@@ -7,8 +7,7 @@
   "repository": { "type": "git", "url": "git://github.com/MikailBag/maketk.git" },
   "dependencies": {},
   "devDependencies": {
-    "mocha": "*",
-    "should": "*"
+    "mocha": "*"
   },
   "main": "index",
   "scripts":{
